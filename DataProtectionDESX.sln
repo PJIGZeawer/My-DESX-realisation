@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProtectionDESX", "DataProtectionDESX\DataProtectionDESX.csproj", "{CCF8AD59-7889-47DD-9AE3-C5D01CB2E0B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF8AD59-7889-47DD-9AE3-C5D01CB2E0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF8AD59-7889-47DD-9AE3-C5D01CB2E0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF8AD59-7889-47DD-9AE3-C5D01CB2E0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF8AD59-7889-47DD-9AE3-C5D01CB2E0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {723584E0-B3AE-4D09-A54E-DC7293DE8495}
+	EndGlobalSection
+EndGlobal
